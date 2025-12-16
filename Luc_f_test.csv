@@ -1,0 +1,17 @@
+name,f-score,p-value,p value < 5%,DoF
+Luc English casual a and Luc English clear a F1,0.181,0.018,True,19
+Luc English casual a and Luc English clear a F2,0.236,0.043,True,19
+Luc English casual e and Luc English clear e F1,1.238,0.752,False,18
+Luc English casual e and Luc English clear e F2,5.284,0.022,True,18
+Luc English casual i and Luc English clear i F1,2.05,0.3,False,19
+Luc English casual i and Luc English clear i F2,0.508,0.328,False,19
+Luc English casual u and Luc English clear u F1,1.968,0.328,False,19
+Luc English casual u and Luc English clear u F2,2.084,0.289,False,19
+Luc French casual a and Luc French clear a F1,1.196,0.794,False,19
+Luc French casual a and Luc French clear a F2,0.693,0.594,False,19
+Luc French casual e and Luc French clear e F1,2.535,0.121,False,25
+Luc French casual e and Luc French clear e F2,1.829,0.309,False,25
+Luc French casual i and Luc French clear i F1,1.277,0.721,False,19
+Luc French casual i and Luc French clear i F2,0.027,0.0,True,19
+Luc French casual u and Luc French clear u F1,5.621,0.017,True,19
+Luc French casual u and Luc French clear u F2,6.358,0.011,True,19

@@ -1,0 +1,17 @@
+name,f-score,p-value,p value < 5%,DoF
+Megan English casual a and Megan English clear a F1,2.681,0.114,False,22
+Megan English casual a and Megan English clear a F2,0.042,0.0,True,22
+Megan English casual e and Megan English clear e F1,2.727,0.235,False,16
+Megan English casual e and Megan English clear e F2,0.739,0.655,False,16
+Megan English casual i and Megan English clear i F1,1.52,0.543,False,19
+Megan English casual i and Megan English clear i F2,1.063,0.929,False,19
+Megan English casual u and Megan English clear u F1,0.442,0.239,False,19
+Megan English casual u and Megan English clear u F2,1.218,0.773,False,19
+Megan French casual a and Megan French clear a F1,1.328,0.7,False,18
+Megan French casual a and Megan French clear a F2,0.679,0.575,False,18
+Megan French casual e and Megan French clear e F1,1.859,0.281,False,26
+Megan French casual e and Megan French clear e F2,0.477,0.21,False,26
+Megan French casual i and Megan French clear i F1,0.974,0.969,False,19
+Megan French casual i and Megan French clear i F2,0.41,0.2,False,19
+Megan French casual u and Megan French clear u F1,0.994,0.993,False,19
+Megan French casual u and Megan French clear u F2,1.425,0.606,False,19

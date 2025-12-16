@@ -1,0 +1,17 @@
+name,f-score,p-value,p value < 5%,DoF
+Stephan English casual a and Stephan English clear a F1,1.095,0.895,False,19
+Stephan English casual a and Stephan English clear a F2,3.494,0.076,False,19
+Stephan English casual e and Stephan English clear e F1,21.836,0.0,True,19
+Stephan English casual e and Stephan English clear e F2,5.825,0.015,True,19
+Stephan English casual i and Stephan English clear i F1,0.602,0.462,False,19
+Stephan English casual i and Stephan English clear i F2,1.763,0.411,False,19
+Stephan English casual u and Stephan English clear u F1,0.926,0.91,False,19
+Stephan English casual u and Stephan English clear u F2,3.643,0.068,False,19
+Stephan French casual a and Stephan French clear a F1,1.033,0.97,False,20
+Stephan French casual a and Stephan French clear a F2,1.515,0.544,False,20
+Stephan French casual e and Stephan French clear e F1,0.248,0.024,True,24
+Stephan French casual e and Stephan French clear e F2,0.789,0.688,False,24
+Stephan French casual i and Stephan French clear i F1,0.728,0.644,False,19
+Stephan French casual i and Stephan French clear i F2,0.259,0.057,False,19
+Stephan French casual u and Stephan French clear u F1,2.242,0.245,False,19
+Stephan French casual u and Stephan French clear u F2,0.577,0.426,False,19
