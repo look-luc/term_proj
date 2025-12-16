@@ -1,0 +1,7 @@
+filename	vowel	Duration	F1	F2
+Stephan_eng_casual.wav	i	0.233	239.72	2105.98
+Stephan_eng_casual.wav	i	0.290	284.62	1978.93
+Stephan_eng_casual.wav	i	0.259	186.63	1900.97
+Stephan_eng_casual.wav	i	0.220	205.43	2085.43
+Stephan_eng_casual.wav	i	0.264	100.88	2092.23
+Stephan_eng_casual.wav	i	0.205	2094.11	3110.74
